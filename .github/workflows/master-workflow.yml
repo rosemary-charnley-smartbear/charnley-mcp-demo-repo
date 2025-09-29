@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: cat API Hub for Contract Testing (PactFlow)\Example Consumer\.github\workflows\build.yml
-      - run: cat API Hub for Contract Testing (PactFlow)/Example Consumer/.github/workflows/trigger_partner_docs_update.yml
+      - run: cat API\ Hub\ for\ Contract\ Testing\ \(PactFlow\)/Example\ Consumer/.github/workflows/build.yml
+      - run: cat API\ Hub\ for\ Contract\ Testing\ \(PactFlow\)/Example\ Consumer/.github/workflows/trigger_partner_docs_update.yml
